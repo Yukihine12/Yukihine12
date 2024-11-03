@@ -6,7 +6,7 @@ Saya sedang menekuni dalam bidang Networkd, backend, dan Cyber Security.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti link dibawah ini:
 1. [Linkedin](https://www.linkedin.com/in/muqtada-hasby-abdalla?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-2. [Web portofolio](muqtadahasbya.my.id).
+2. [Web portofolio](https://muqtadahasbya.my.id/).
 
 ### Github Statistic
 <p align="left">
